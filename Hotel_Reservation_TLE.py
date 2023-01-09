@@ -1,5 +1,6 @@
 from datetime import datetime
 import locale
+
 print("THe Hotel Reservation program\n")
 
 again = "y"
